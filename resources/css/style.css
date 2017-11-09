@@ -92,5 +92,39 @@ h1 {
 }
 
 .nav-condensed {
-  display: none; 
+  display: none;
+}
+
+/* Product Showcase */
+
+.product-showcase {
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 0;
+}
+
+.product-showcase-inner {
+  justify-content: space-between;
+}
+
+.product-showcase-item {
+  width: 30%;
+  border: 4px solid black;
+  text-align: center;
+}
+
+.product-image {
+  height: 9rem;
+  padding: 2rem 0;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-image img {
+  max-width: 8em;
+}
+
+.product-name {
+  background-color: black;
+  padding: 0.5rem 0;
 }
