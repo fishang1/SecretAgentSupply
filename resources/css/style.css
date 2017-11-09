@@ -128,3 +128,30 @@ h1 {
   background-color: black;
   padding: 0.5rem 0;
 }
+
+/* Store Info */
+
+.store-info {
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 4rem;
+}
+
+.store-info-inner {
+  align-items: center;
+  justify-content: space-between;
+}
+
+.store-info-item {
+  width: 35%;
+}
+
+.store-info-item-header{
+  padding: 1rem 2rem;
+  background-color: black
+}
+
+.store-info-item p {
+  color: black;
+  margin-top: 0.5rem;
+}
