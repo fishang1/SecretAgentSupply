@@ -155,3 +155,12 @@ h1 {
   color: black;
   margin-top: 0.5rem;
 }
+
+/* Footer */
+
+.footer {
+  height: 5rem;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
